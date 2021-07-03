@@ -1,0 +1,2 @@
+# Akitamoon.bsc
+temp;ate
